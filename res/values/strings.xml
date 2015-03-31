@@ -8,5 +8,8 @@
     <string name="title_activity_music">Music</string>
     <string name="action_search">Search</string>
     <string name="title_activity_channel">Chord Channel</string>
+    <string name="node_list">Node List</string>
+    <string name="directory_listing_header">Remote directory listing</string>
+    
 
 </resources>
